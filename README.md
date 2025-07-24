@@ -74,10 +74,10 @@ Here are some of the projects I've worked on (many done collaboratively with [Ad
 - 📂 [Resume Screening System](https://github.com/Vighnesh-Chorge/Resume-Screening-System)  
   Flask + spaCy app that extracts info from resumes to assist recruiters.
 
-- 📊 [Academic Evaluation System](https://github.com/Vighnesh-Chorge/Academic-Evaluation-System)  
+- 📊 [Academic Evaluation System](https://github.com/Vighnesh-Chorge/Academic-Evalulation-System)  
   Flask web app for evaluating and managing student performance.
 
-- 🌸 [Artificial Neural Network (Iris Dataset)](https://github.com/Vighnesh-Chorge/Artificial-Neural-Network-Implementation)  
+- 🌸 [Artificial Neural Network (Iris Dataset)](https://github.com/Vighnesh-Chorge/Iris-Flower-Classifier-using-Neural-Networks)  
   Classifies iris flowers using a custom ANN built with Keras.
 
 - 🍷 [Wine Quality Prediction](https://github.com/Vighnesh-Chorge/Wine-Quality-Prediction-Using-Logistic-Regression)  
