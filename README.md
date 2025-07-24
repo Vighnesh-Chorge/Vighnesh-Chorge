@@ -97,8 +97,8 @@ Here are some of the projects I've worked on (many done collaboratively with [Ad
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/vighneshchorge)  
-- 📧 Email: [vighneshchorge@gmail.com](mailto:vighneshchorge@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/vighnesh-chorge/)  
+- 📧 Email: [vighneshchorge@gmail.com](mailto:vighneshchorge83@gmail.com)  
 
 ---
 
