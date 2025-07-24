@@ -8,12 +8,11 @@ Welcome to my GitHub profile! Thanks for stopping by 😊
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year Computer Engineering student at Mumbai University  
+- 🎓 4th Year Computer Engineering student at Mumbai University  
 - 💻 Currently interning at **Indian Oil Corporation (IOC HO)** – Network & SAP Departments  
 - 🔍 Deeply interested in AI/ML, system design, and automation-based projects  
 - 🐍 Proficient in Python, with hands-on experience in building intelligent and scalable systems  
 - 📊 Skilled in data analytics using Pandas, NumPy, Matplotlib, and Seaborn  
-- 🌐 Exploring full-stack development using Flask and MySQL  
 - 🧠 Love building practical tech that solves real-world problems
 
 ---
