@@ -53,10 +53,10 @@ Here are some of the projects I've worked on (many done collaboratively with [Ad
 - 📰 [AI-Powered News Synthesizer](https://github.com/Vighnesh-Chorge/News-Synthesizer)  
   Colab + BART-based app that summarizes multi-source news with a responsive frontend hosted via Google Drive
 
-- 🐦 [Twitter Sentiment Analysis for Stock Forecasting](https://github.com/Vighnesh-Chorge/-Twitter-Sentiment-Analysis-for-Stock-Market-Forecasting)  
+- 🐦 [Twitter Sentiment Analysis for Stock Forecasting](https://github.com/Vighnesh-Chorge/Twitter-Sentiment-Analysis-for-Stock-Market-Forecasting)  
   Uses LSTM and tweet sentiment to forecast stock performance.
 
-- 🛒 [Product Recommendation for Walmart Products](https://github.com/Vighnesh-Chorge/Product-Recommendation-for-Walmart-Products)  
+- 🛒 [Product Recommendation for Walmart Products](https://github.com/Vighnesh-Chorge/Product-reccommendation-for-wallmart)  
   TF-IDF and cosine similarity-based recommender for e-commerce products.
 
 - 🎬 [Movie Recommendation System](https://github.com/Vighnesh-Chorge/Movie-Recommendation-System)  
