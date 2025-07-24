@@ -68,7 +68,7 @@ Here are some of the projects I've worked on (many done collaboratively with [Ad
 - 📬 [SVM-based Email Spam Classifier](https://github.com/Vighnesh-Chorge/SVM-based-Email-Spam-Classifier)  
   A machine learning system using Support Vector Machines to classify SMS messages as spam or not.
 
-- ✍️ [Autocorrect System using Naive Bayes](https://github.com/Vighnesh-Chorge/Autocorrect-System-using-Naive-Bayes)  
+- ✍️ [Autocorrect System using Naive Bayes](https://github.com/Vighnesh-Chorge/NaiveBayes-Autocorrect)  
   NLP-based autocorrect system that uses Naive Bayes for predicting and correcting misspelled words
 
 - 📂 [Resume Screening System](https://github.com/Vighnesh-Chorge/Resume-Screening-System)  
