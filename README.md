@@ -52,20 +52,19 @@ Welcome to my GitHub profile!
 
 ## 🧾 Roles & Contributions
 
-- 🎭 **Cultural Co-Head** *(July 2024 – June 2025)*  
-  - Co-led the college cultural committee, planning and executing major cultural fests, inter-college competitions, and themed campus events.  
-  - Managed student teams, coordinated with faculty and external partners, and handled budgeting and sponsorship activities. 
-  - Boosted student participation and strengthened the college’s cultural presence through high-quality, well-organized events.
+### 🎭 Council Member *(July 2024 – June 2025)*
 
-- 🧢 **Ex NSS Event Team Head** *(July 2024 – June 2025)*  
-  - Led the NSS event management team, organizing awareness drives, social outreach events, and technical activities.  
-  - Handled end-to-end planning, logistics, and team coordination for large-scale programs.  
-  - Strengthened leadership, communication, and multitasking skills through on-ground execution.
+* Led and managed major college cultural events, coordinating planning, execution, and logistics for large-scale programs.
+* Choreographed and directed stage performances, ensuring smooth execution and high audience engagement.
+* Collaborated with faculty members, student committees, and volunteers to successfully organize inter-college and campus events.
+* Strengthened leadership, event management, teamwork, and communication skills while managing multiple responsibilities under deadlines.
 
-- 🤝 **NSS Volunteer** *(July 2023 – June 2024)*  
-  - Contributed over 120+ hours to community service activities such as cleanliness drives, blood donation camps, and awareness campaigns.  
-  - Actively participated in team-based initiatives promoting social responsibility and civic engagement.  
-  - Developed teamwork, empathy, and public engagement skills.
+### 🤝 NSS Leader *(July 2024 – June 2025)*
+
+* Led volunteers in organizing social outreach initiatives, awareness campaigns, and college community programs.
+* Managed event planning, task delegation, volunteer coordination, and on-ground execution of NSS activities.
+* Promoted community engagement and social responsibility through impactful service initiatives.
+* Developed strong leadership, organizational, and problem-solving skills by coordinating cross-functional teams and ensuring successful event execution.
 
 ---
 
