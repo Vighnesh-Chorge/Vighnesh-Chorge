@@ -132,6 +132,6 @@ Here are some of the projects I've worked on:
 ## 📫 Let's Connect!
 
 - [LinkedIn](linkedin.com/in/vighnesh-chorge)  
-- 📧 Email: [VighneshChorge2@gmail.com](mailto:VighneshChorge83@gmail.com)  
+- 📧 Email: [VighneshChorge83@gmail.com](mailto:VighneshChorge83@gmail.com)  
 
 Thanks for stopping by! 😊
